@@ -110,6 +110,8 @@ Airbnb 的javascript规范指南
     var superman = {
       klass: 'alien'
     };
+    
+    
 
     //推荐
     var superman = {
